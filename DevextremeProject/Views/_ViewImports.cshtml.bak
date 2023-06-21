@@ -1,0 +1,3 @@
+﻿@using DevextremeProject
+@using DevextremeProject.Models
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
